@@ -1,0 +1,4 @@
+LIBRARY	"VanillaSprint"
+EXPORTS
+FOSEPlugin_Query			@1
+FOSEPlugin_Load				@2
